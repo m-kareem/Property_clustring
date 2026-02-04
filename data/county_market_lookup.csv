@@ -1,0 +1,97 @@
+﻿State,State Abbreviation,County,Market,state_lower,county_lower
+Maryland,MD,Anne Arundel,Baltimore,md,annearundel
+Maryland,MD,Baltimore,Baltimore,md,baltimore
+Maryland,MD,Baltimore City,Baltimore,md,baltimorecity
+Maryland,MD,Caroline,Baltimore,md,caroline
+Maryland,MD,Carroll,Baltimore,md,carroll
+Maryland,MD,Cecil,Baltimore,md,cecil
+Maryland,MD,Dorchester,Baltimore,md,dorchester
+Maryland,MD,Harford,Baltimore,md,harford
+Maryland,MD,Howard,Baltimore,md,howard
+Maryland,MD,Kent,Baltimore,md,kent
+Maryland,MD,Queen Annes,Baltimore,md,queenannes
+Maryland,MD,Queen Annes,Baltimore,md,queenanne
+Maryland,MD,Somerset,Baltimore,md,somerset
+Maryland,MD,Talbot,Baltimore,md,talbot
+Maryland,MD,Wicomico,Baltimore,md,wicomico
+Maryland,MD,Worcester,Baltimore,md,worcester
+Virginia,VA,Alexandria City,DC Metro,va,alexandriacity
+Maryland,MD,Allegany,DC Metro,md,allegany
+Virginia,VA,Arlington,DC Metro,va,arlington
+Maryland,MD,Calvert,DC Metro,md,calvert
+Maryland,MD,Charles,DC Metro,md,charles
+Virginia,VA,Clarke,DC Metro,va,clarke
+Virginia,VA,Culpeper,DC Metro,va,culpeper
+District of Columbia,DC,District of Columbia,DC Metro,dc,districtofcolumbia
+Virginia,VA,Fairfax,DC Metro,va,fairfax
+Virginia,VA,Fairfax City,DC Metro,va,fairfaxcity
+Virginia,VA,Falls Church City,DC Metro,va,fallschurchcity
+Virginia,VA,Fauquier,DC Metro,va,fauquier
+Maryland,MD,Frederick,DC Metro,md,frederick
+Virginia,VA,Frederick,DC Metro,va,frederick
+Virginia,VA,Fredericksburg City,DC Metro,va,fredericksburgcity
+Virginia,VA,Loudoun,DC Metro,va,loudoun
+Virginia,VA,Madison,DC Metro,va,madison
+Virginia,VA,Manassas City,DC Metro,va,manassascity
+Virginia,VA,Manassas Park City,DC Metro,va,manassasparkcity
+Maryland,MD,Montgomery,DC Metro,md,montgomery
+Virginia,VA,Orange,DC Metro,va,orange
+Virginia,VA,Page,DC Metro,va,page
+Maryland,MD,Prince Georges,DC Metro,md,princegeorges
+Maryland,MD,Prince Georges,DC Metro,md,princegeorge
+Virginia,VA,Prince William,DC Metro,va,princewilliam
+Virginia,VA,Rappahannock,DC Metro,va,rappahannock
+Maryland,MD,Saint Marys,DC Metro,md,stmarys
+Maryland,MD,Saint Marys,DC Metro,md,stmary
+Maryland,MD,Saint Marys,DC Metro,md,saintmarys
+Virginia,VA,Shenandoah,DC Metro,va,shenandoah
+Virginia,VA,Spotsylvania,DC Metro,va,spotsylvania
+Virginia,VA,Stafford,DC Metro,va,stafford
+Virginia,VA,Warren,DC Metro,va,warren
+Maryland,MD,Washington,DC Metro,md,washington
+Virginia,VA,Winchester City,DC Metro,va,winchestercity
+Virginia,VA,Chesapeake City,Hampton Roads,va,chesapeakecity
+Virginia,VA,Gloucester,Hampton Roads,va,gloucester
+Virginia,VA,Hampton City,Hampton Roads,va,hamptoncity
+Virginia,VA,Isle of Wight,Hampton Roads,va,isleofwight
+Virginia,VA,James City,Hampton Roads,va,jamescity
+Virginia,VA,Mathews,Hampton Roads,va,mathews
+Virginia,VA,Newport News City,Hampton Roads,va,newportnewscity
+Virginia,VA,Norfolk City,Hampton Roads,va,norfolkcity
+Virginia,VA,Poquoson City,Hampton Roads,va,poquosoncity
+Virginia,VA,Portsmouth City,Hampton Roads,va,portsmouthcity
+Virginia,VA,Suffolk City,Hampton Roads,va,suffolkcity
+Virginia,VA,Virginia Beach City,Hampton Roads,va,virginiabeachcity
+Virginia,VA,Williamsburg City,Hampton Roads,va,williamsburgcity
+Virginia,VA,York,Hampton Roads,va,york
+Virginia,VA,Amelia,Richmond,va,amelia
+Virginia,VA,Caroline,Richmond,va,caroline
+Virginia,VA,Charles City,Richmond,va,charlescity
+Virginia,VA,Chesterfield,Richmond,va,chesterfield
+Virginia,VA,Colonial Heights City,Richmond,va,colonialheightscity
+Virginia,VA,Dinwiddie,Richmond,va,dinwiddie
+Virginia,VA,Goochland,Richmond,va,goochland
+Virginia,VA,Hanover,Richmond,va,hanover
+Virginia,VA,Henrico,Richmond,va,henrico
+Virginia,VA,Hopewell City,Richmond,va,hopewellcity
+Virginia,VA,King William,Richmond,va,kingwilliam
+Virginia,VA,Louisa,Richmond,va,louisa
+Virginia,VA,New Kent,Richmond,va,newkent
+Virginia,VA,Petersburg City,Richmond,va,petersburgcity
+Virginia,VA,Powhatan,Richmond,va,powhatan
+Virginia,VA,Prince George,Richmond,va,princegeorge
+Virginia,VA,Richmond City,Richmond,va,richmondcity
+Virginia,VA,Sussex,Richmond,va,sussex
+Delaware,DE,Kent,Wilmington,de,kent
+Delaware,DE,New Castle,Wilmington,de,newcastle
+Delaware,DE,Sussex,Wilmington,de,sussex
+Pennsylvania,PA,Berks,Philadelphia,pa,berks
+Pennsylvania,PA,Bucks,Philadelphia,pa,bucks
+Pennsylvania,PA,Chester,Philadelphia,pa,chester
+Pennsylvania,PA,Delaware,Philadelphia,pa,delaware
+Pennsylvania,PA,Lancaster,Philadelphia,pa,lancaster
+Pennsylvania,PA,Lehigh,Philadelphia,pa,lehigh
+Pennsylvania,PA,Montgomery,Philadelphia,pa,montgomery
+Pennsylvania,PA,Northampton,Philadelphia,pa,northampton
+Pennsylvania,PA,Philadelphia,Philadelphia,pa,philadelphia
+Pennsylvania,PA,York,Philadelphia,pa,york
